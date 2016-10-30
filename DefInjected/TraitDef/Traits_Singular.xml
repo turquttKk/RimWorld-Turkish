@@ -1,4 +1,4 @@
-?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
   <Nudist.degreeDatas.0.label>Çıplak Dolaşan</Nudist.degreeDatas.0.label>
@@ -64,8 +64,9 @@
   <Pyromaniac.degreeDatas.0.label>Pyromanyak</Pyromaniac.degreeDatas.0.label>
   <Pyromaniac.degreeDatas.0.description>NAME alevleri ateşi sever.. HECAP bazen yangın başlayacak ve o hiç söndürmek istemeyecek.</Pyromaniac.degreeDatas.0.description>
 
-</LanguageData>
-[0].label</path>
+
+<rep>
+<path>Bloodlust.degreeDatas[0].label</path>
     <trans>Kanasusamış</trans>
   </rep>
   <rep>
