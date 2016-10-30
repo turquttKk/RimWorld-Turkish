@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WanderConfused.label>confused wandering</WanderConfused.label>
-    <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
+    <WanderConfused.label>aklı karışmış dolaşıyor.</WanderConfused.label>
+    <WanderConfused.beginLetterLabel>aklı karışmış</WanderConfused.beginLetterLabel>
     <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
-    <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
+    <WanderConfused.recoveryMessage>{0} artık aklı karışık değil.</WanderConfused.recoveryMessage>
     <WanderConfused.inspectLine>Akıl durumu: Confused and wandering</WanderConfused.inspectLine>
     
-    <PanicFlee.label>Panik Kaçıyor</</PanicFlee.label>
+    <PanicFlee.label>Panik Kaçıyor</PanicFlee.label>
     <PanicFlee.beginLetterLabel>Kaçıyor</PanicFlee.beginLetterLabel>
     <PanicFlee.beginLetter>{0} Panik içinde kaçıyor.</PanicFlee.beginLetter>
     <PanicFlee.recoveryMessage>{0} artık panik içinde kaçmıyor.</PanicFlee.recoveryMessage>
